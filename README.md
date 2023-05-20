@@ -3,7 +3,7 @@
 
 
 
-1. git@github.com:karpenkoea/gulp-env.git
+1. git clonne git@github.com:karpenkoea/gulp-env.git %{new_app_name_here}
 2. cd %{new_app_name_here}
 3. git remote remove origin.
 4. Create remote git repository.
